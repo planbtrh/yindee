@@ -1,4 +1,7 @@
 # yindee
 yindee.coffee
 
-temp: https://planbtrh.github.io/yindee/
+https://yindee.coffee
+
+temp: https://planbtrh.github.io/yindee
+
